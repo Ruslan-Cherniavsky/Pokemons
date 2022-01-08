@@ -41,7 +41,7 @@ function createCard(pokemonFront, pokemonBack, pokemonName){
 
     const outerDiv = document.createElement("div");
     outerDiv.className = "col-3"
-    // outerDiv.classList.add = ;
+
 
 
     const name = document.createElement("h3");
